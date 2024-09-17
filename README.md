@@ -1,4 +1,8 @@
 # instagramclone-jetpackcompose-kotlin-firebase-mvvm-hilt-algolia-room
+
+![instaverse_record-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d180659d-e1f5-4808-9f1e-e62a0ca25555)
+
+
 Jetpack Compose kullanarak Instagram uygulamasının temel özelliklerini barındıran deneme amaçlı bir sosyal medya uygulaması
 Kullanılan kütüphaneler:
 
